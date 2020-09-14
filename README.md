@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is the basic building blocks of a web page.  It is a clean, organized and easily readable file that tells the browser what is to be displayed on the page.  It is styled and aligned by the CSS file.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Display block is how paragraphs are displayed and inline is used for styling in a page.  
 
 3. What are the 4 areas of the box model?
 
+Border, margin, padding and content
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The main axis
+
 5. Explain why git is valuable to a team of developers.
+
+Git is a useful tool that helps to organize a project.  Users download the main files from a central server and are able to make changes to them without changing the actual code of the final or main project.  Once changes are made, they are then submitted for review and either accepted into the main code or rejected for further changes.  This is useful because it prevents confusion as you dont have many devs changing the same code and confusing or messing up the main product.  
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
